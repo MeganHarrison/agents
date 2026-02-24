@@ -1,0 +1,5 @@
+version: 1
+packs:
+  - id: core
+    path: packs/core
+    description: Shared baseline instructions and workflows
